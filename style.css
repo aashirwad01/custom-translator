@@ -59,3 +59,18 @@ footer{
     /* min-width: 10%; */
    
 }
+
+.btn-wrapper-2{
+    margin: 2rem 0rem;
+    text-align: center;
+}
+
+#btn-clear{
+
+    position: relative;
+    padding: 1% 2%;
+    font-family:'Stick No Bills', sans-serif;  
+    background-color: #064E3B;
+    /* min-width: 10%; */
+   
+}
