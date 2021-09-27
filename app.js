@@ -3,7 +3,7 @@ var btn_getMirror=document.querySelector("#btn-mirror");
 btn_getMirror.addEventListener("click",btnClick);
 var btn_clear=document.querySelector("#btn-clear");
 btn_clear.addEventListener("click",btnClear);
-var url="https://tranquil-falls-70811.herokuapp.com/translate/mirror.json";
+var url="https://api.funtranslations.com/translate/shakespeare.json";
 
 function urlGenerator(url,text){
     var encodedURI=encodeURI(text);
