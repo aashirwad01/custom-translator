@@ -9,7 +9,7 @@ Remeber how tedious it was to learn Shakespeare . Now an App to do translations 
 ### A Basic Translation App
 
 ## Hosted on Netlify [Shakespearean Translator](https://shakespeare-text-generator.netlify.app/)
-![Shakespearean Translator](https://github.com/aashirwad01/aashirwad-site/blob/main/images/markeight.png)
+![Shakespearean Translator](https://github.com/aashirwad01/aashirwad-site/blob/main/images/markseven.png)
 ### Intended Use A Translator.
 
 ## Tech Stack Used
